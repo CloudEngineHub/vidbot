@@ -1,5 +1,5 @@
 # mkdir -p datasets
-gdown https://drive.google.com/uc?id=1IDCJ-wB05sMVKdLiG0IO_OajsY0ihvpi
+gdown https://drive.google.com/uc?id=1gaF9ywJIImOof7oTzP0fpTZj1tYqD8Ep
 unzip vidbot_data_demo.zip -d datasets/
 rm vidbot_data_demo.zip
 
